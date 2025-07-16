@@ -1,0 +1,13 @@
+assets/screenshots/*
+!assets/screenshots/.keep
+
+assets/sound/*
+!assets/sound/.keep
+
+__pycache__/
+
+.env
+.vscode
+
+final_video/*
+!final_video/.keep
